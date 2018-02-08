@@ -1,26 +1,26 @@
 ## Internal Consistency
 
-If I am an architect, and submit a plan to build a house, the first hurdle that I must overcome is whether or not my house can be built at all. If I submit wonderful plans for a house constructed entirely of soap bubbles, I will never get the commission, since such a “house” could never stand.
+Si je suis un architecte, et de soumettre un plan pour construire une maison, le premier obstacle que je dois surmonter est de savoir si ou non de ma maison peut être construite. Si je soumettre des projets merveilleux pour une maison construite entièrement de bulles de savon, je n'obtiendrez jamais de la commission, puisque cette “maison” pourrait ne jamais se reposer.
 
-Similarly, if an engineer submits a plan for a bridge, the first criterion that must be satisfied is whether or not the bridge will stand. Other considerations such as longevity, aesthetics and so on will only apply if the bridge is physically viable to begin with.
+De même, si un ingénieur soumet un plan pour un pont, le premier critère qui doit être satisfait, c'est de savoir si ou non le pont sera debout. D'autres considérations, telles que la longévité, de l'esthétique et ainsi de suite ne s'applique que si le pont est physiquement viable pour commencer.
 
-It would be illogical – not to mention highly unproductive – to build a bridge out of random materials, using random “calculations,” in order to find out whether or not it will stand. Since physical laws are consistent and universal, it is relatively easy to figure out whether or not a bridge will stand *before* building it.
+Il serait illogique de ne pas mentionner hautement improductives – la construction d'un pont de hasard matériaux, à l'aide de random “calculs”, afin de savoir si oui ou non il sera debout. Depuis les lois de la physique sont cohérent et universel, il est relativement facile de savoir si oui ou non un pont stand *avant* la construction.
 
-There are two ways to determine the viability of the bridge before building it. The first is to look for internal inconsistencies within the premises and calculations that claim to support the viability of the bridge. If there are significant errors in the calculations justifying the weight that the bridge can support, then the bridge will likely be either over-designed, or under-designed. If erroneous mathematical calculations result in a strength of minus fifty tons per square foot at any part of the bridge, then it certainly will not stand – or, if it does, its viability will be only accidental, and not reproducible.
+Il existe deux façons de déterminer la viabilité du pont avant de la construire. La première est de chercher des incohérences internes dans les locaux et les calculs qui prétendent soutenir la viabilité du pont. Si il y a des erreurs dans les calculs justifiant le poids que le pont peut supporter, puis le pont seront probablement surestimée ou sous-conçu. Si erronée calculs mathématiques entraîner une force de moins de cinquante tonnes par pied carré à n'importe quelle partie du pont, alors il ne sera certainement pas en stand – ou, le cas échéant, de sa viabilité sera seulement accidentelle, et non reproductibles.
 
-The mathematical calculations supporting the viability of the bridge must thus be internally consistent before any other considerations can be taken into account.
+Les calculs mathématiques de soutenir la viabilité du pont doit donc être cohérent avant toutes autres considérations peuvent être prises en compte.
 
-In computer terms, code that does not compile cannot be tested.
+En termes informatiques, code qui ne compile pas ne peut pas être testé.
 
-This is true in the scientific world as well. Theories are always checked for internal consistency before they are submitted to empirical tests. The reason that internal consistency is so essential is that since theories claim to have value relative to reality, and reality is internally consistent, any theory that is *not* internally consistent cannot have value relative to reality.
+Cela est vrai dans le monde scientifique. Les théories sont toujours vérifié la cohérence interne avant qu'ils soient soumis à des tests empiriques. La raison que la cohérence interne est donc essentiel est que, depuis les théories prétendent avoir de la valeur par rapport à la réalité, et la réalité a une cohérence interne, une théorie qui n'est *pas* une cohérence interne ne peut pas avoir de valeur par rapport à la réalité.
 
-Only *after* the internal consistency of the calculations has been established can the degree to which the bridge meets the specifications be reviewed. It is possible to write internally consistent specifications for a tiny bridge built entirely out of balsa wood, but unless the engineer is writing an article for a model rail-roading magazine, his specifications, though consistent, will fail to meet any industrial requirement.
+*Après* la cohérence interne des calculs a été possible de la mesure dans laquelle le pont est conforme aux spécifications être revu. Il est possible d'écrire une cohérence interne, les spécifications d'un petit pont entièrement construit à partir de bois de balsa, mais à moins que l'ingénieur est l'écriture d'un article pour un modèle de rail-road magazine, ses spécifications, bien que cohérente, ne va pas répondre à toute exigence industrielle.
 
-Once we have determined that the bridge will stand, we can then determine whether or not it meets our specific needs, such as supporting the weight of pedestrians versus trains.
+Une fois que nous avons déterminé que le pont stand, nous pouvons alors déterminer s'il répond ou non à nos besoins spécifiques, comme le fait de soutenir le poids des piétons contre les trains.
 
-In the realm of economics, the same criterion applies. If my economic theory requires that prices go up and down simultaneously, then it cannot be valid, since this is impossible. Once my theory has been checked for internal consistency, I can begin to look for evidence, and/or begin using my theory to make proactive predictions.
+Dans le domaine de l'économie, le même critère s'applique. Si ma théorie économique suppose que les prix montent et descendent en même temps, il ne peut pas être valable, puisque c'est impossible. Une fois ma théorie a été vérifiée pour la cohérence interne, je peux commencer à chercher des preuves, et/ou de commencer à utiliser ma théorie pour faire proactive des prédictions.
 
-Thus, we can see that any theory, to be valid, requires the following:
+Ainsi, nous pouvons voir que toute théorie, pour être valable, nécessite les éléments suivants:
 
 1. Internal consistency (logic).
 2. External consistency (testability).
